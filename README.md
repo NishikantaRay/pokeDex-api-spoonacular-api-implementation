@@ -1,0 +1,1 @@
+# pokeDex-api-spoonacular-api-implementation
